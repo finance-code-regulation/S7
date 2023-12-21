@@ -114,27 +114,27 @@ This course has been designed using the following 12 Modules, and sections which
 &nbsp; B. &nbsp; &nbsp; Option Contracts and Exchanges.</br>
 &nbsp; C. &nbsp; &nbsp; Risk Management using Derivatives.</br>
 
-**VIII. Retirement Plans and Regulations**
+**VIII. Retirement Plans and Regulations**</br>
 &nbsp; A. &nbsp; &nbsp; Types of Retirement Plans.</br>
 1. &nbsp; &nbsp; IRA.
 2. &nbsp; &nbsp; 401(k).
 3. &nbsp; &nbsp; Pension Plans.</br>
 &nbsp; B. &nbsp; &nbsp; ERISA Matters.
 
-**IX. Securities Analysis and Valuation**
+**IX. Securities Analysis and Valuation**</br>
 &nbsp; A. &nbsp; &nbsp; Fundamental Analysis.</br>
 &nbsp; B. &nbsp; &nbsp; Technical Analysis.</br>
 &nbsp; C. &nbsp; &nbsp; Valuation Methods.</br>
 
-**X. Ethics and Professional Conduct**
+**X. Ethics and Professional Conduct**</br>
 &nbsp; A. &nbsp; &nbsp; Ethical Guidelines for Financial Professionals.</br>
 &nbsp; B. &nbsp; &nbsp; Insider Trading and Market Manipulation.</br>
 &nbsp; C. &nbsp; &nbsp; Conflicts of Interest and Fiduciary Responsibilities.</br>
 
-XI. Practice Exams and Quizzes
-A. Sample Questions and Answers
-B. Mock Exams for Practice
-C. Review and Assessment Strategies
+**XI. Practice Exams and Quizzes**</br>
+&nbsp; A. &nbsp; &nbsp; Sample Questions and Answers.
+&nbsp; B. &nbsp; &nbsp; Mock Exams for Practice.
+&nbsp; C. &nbsp; &nbsp; Review and Assessment Strategies.
 
 XII. Additional Resources and References
 A. Recommended Reading Materials
