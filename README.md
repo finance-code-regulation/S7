@@ -61,72 +61,72 @@ exam items for each major function is as referenced in the table below.
 This course has been designed using the following 12 Modules, and sections which include practice Q&A for each part.</br>
 
 **I. Introduction to Securities Industry and Regulations**</br>
-&nbsp; A. Overview of the Securities Industry</br>
-&nbsp; B. Role of FINRA and SEC</br>
-&nbsp; C. Securities Act of 1933 </br>
-&nbsp; D. Securities Exchange Act of 1934</br>
+&nbsp; A. &nbsp; &nbsp; Overview of the Securities Industry.</br>
+&nbsp; B. &nbsp; &nbsp; Role of FINRA and SEC.</br>
+&nbsp; C. &nbsp; &nbsp; Securities Act of 1933.</br>
+&nbsp; D. &nbsp; &nbsp; Securities Exchange Act of 1934.</br>
 
 **II. Securities Markets and Products**</br>
-&nbsp; A. &nbsp; &nbsp; Types of Securities</br>
-1. Equities
-2. Fixed-Income Securities
-3. Options
-4. Mutual Funds
-5. Alternative Investments</br>
+&nbsp; A. &nbsp; &nbsp; Types of Securities.</br>
+1. &nbsp; &nbsp; Equities.
+2. &nbsp; &nbsp; Fixed-Income Securities.
+3. &nbsp; &nbsp; Options.
+4. &nbsp; &nbsp; Mutual Funds.
+5. &nbsp; &nbsp; Alternative Investments.</br>
 
-&nbsp; B. &nbsp; &nbsp; Primary Markets</br>
-&nbsp; C. &nbsp; &nbsp; Secondary Markets</br>
-&nbsp; D. &nbsp; &nbsp; Orders</br>
-1. Market Orders
-2. Limit Orders
-3. Stop Orders
+&nbsp; B. &nbsp; &nbsp; Primary Markets.</br>
+&nbsp; C. &nbsp; &nbsp; Secondary Markets.</br>
+&nbsp; D. &nbsp; &nbsp; Orders.</br>
+1. &nbsp; &nbsp; Market Orders.
+2. &nbsp; &nbsp; Limit Orders.
+3. &nbsp; &nbsp; Stop Orders.
 
 **III. Investment Risk and Return**</br>
-&nbsp; A. &nbsp; &nbsp; Risk vs. Return</br>
-&nbsp; B. &nbsp; &nbsp; Diversification and Portfolio Allocation</br>
-&nbsp; C. &nbsp; &nbsp; Investment Strategies</br>
-1. Growth Investing Strategies
-2. Value Investing Strategies
-3. Active Investing Strategies
-4. Passive Investing Strategies
+&nbsp; A. &nbsp; &nbsp; Risk vs. Return.</br>
+&nbsp; B. &nbsp; &nbsp; Diversification and Portfolio Allocation.</br>
+&nbsp; C. &nbsp; &nbsp; Investment Strategies.</br>
+1. &nbsp; &nbsp; Growth Investing Strategies.
+2. &nbsp; &nbsp; Value Investing Strategies.
+3. &nbsp; &nbsp; Active Investing Strategies.
+4. &nbsp; &nbsp; Passive Investing Strategies.
 
 **IV. Investment Banking and Corporate Securities**</br>
-&nbsp; A. &nbsp; &nbsp; Capital Structure</br>
-&nbsp; B. &nbsp; &nbsp; IPOs and Secondary Offerings</br>
-&nbsp; C. &nbsp; &nbsp; Underwriting Process</br>
+&nbsp; A. &nbsp; &nbsp; Capital Structure.</br>
+&nbsp; B. &nbsp; &nbsp; IPOs and Secondary Offerings.</br>
+&nbsp; C. &nbsp; &nbsp; Underwriting Process.</br>
 
 **V. Regulations and Compliance**</br>
-&nbsp; A.  &nbsp; &nbsp; Registration and Licensing Requirements</br>
-&nbsp; B.  &nbsp; &nbsp; Anti-Money Laundering (AML) Regulations</br>
-&nbsp; C.  &nbsp; &nbsp; Know Your Customer (KYC) Requirements</br>
+&nbsp; A.  &nbsp; &nbsp; Registration and Licensing Requirements.</br>
+&nbsp; B.  &nbsp; &nbsp; Anti-Money Laundering (AML) Regulations.</br>
+&nbsp; C.  &nbsp; &nbsp; Know Your Customer (KYC) Requirements.</br>
 
 **VI. Customer Accounts and Investment Strategies**</br>
-&nbsp; A. &nbsp; &nbsp; Account Types</br>
-1. Individual
-2. Joint
-3. Corporate
-4. Trusts
-&nbsp; B. &nbsp; &nbsp; Investment Strategies based on Client Objectives</br>
-&nbsp; C. &nbsp; &nbsp; Tax Considerations in Investment Planning</br>
+&nbsp; A. &nbsp; &nbsp; Account Types.</br>
+1. &nbsp; &nbsp; Individual.
+2. &nbsp; &nbsp; Joint.
+3. &nbsp; &nbsp; Corporate.
+4. &nbsp; &nbsp; Trusts.
+&nbsp; B. &nbsp; &nbsp; Investment Strategies based on Client Objectives.</br>
+&nbsp; C. &nbsp; &nbsp; Tax Considerations in Investment Planning.</br>
 
 **VII. Derivative Securities and Options**</br>
-&nbsp; A. &nbsp; &nbsp; Options Strategies
-&nbsp; B. &nbsp; &nbsp; Option Contracts and Exchanges
-&nbsp; C. &nbsp; &nbsp; Risk Management using Derivatives
+&nbsp; A. &nbsp; &nbsp; Options Strategies.</br>
+&nbsp; B. &nbsp; &nbsp; Option Contracts and Exchanges.</br>
+&nbsp; C. &nbsp; &nbsp; Risk Management using Derivatives.</br>
 
 **VIII. Retirement Plans and Regulations**
-A. Types of Retirement Plans
-1. IRA
-2. 401(k)
-3. Pension Plans
-B. ERISA Regulations
+&nbsp; A. &nbsp; &nbsp; Types of Retirement Plans.</br>
+1. &nbsp; &nbsp; IRA.
+2. &nbsp; &nbsp; 401(k).
+3. &nbsp; &nbsp; Pension Plans.
+B. &nbsp; &nbsp; ERISA Regulations.
 
-IX. Securities Analysis and Valuation
-A. Fundamental Analysis
-B. Technical Analysis
-C. Valuation Methods
+**IX. Securities Analysis and Valuation**
+&nbsp;A. &nbsp; &nbsp; Fundamental Analysis.</br>
+&nbsp;B. &nbsp; &nbsp; Technical Analysis.</br>
+&nbsp;C. &nbsp; &nbsp; Valuation Methods.</br>
 
-X. Ethics and Professional Conduct
+**X. Ethics and Professional Conduct**
 A. Ethical Guidelines for Financial Professionals
 B. Insider Trading and Market Manipulation
 C. Conflicts of Interest and Fiduciary Responsibilities
