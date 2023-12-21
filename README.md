@@ -1,2 +1,5 @@
-# S7
-General Securities Representative Guidelines
+# Series 7
+
+General Securities Representative Rubric
+
+
