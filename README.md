@@ -60,48 +60,48 @@ exam items for each major function is as referenced in the table below.
 
 This course has been designed using the following 12 Modules, and sections which include practice Q&A for each part.</br>
 
-I. Introduction to Securities Industry and Regulations</br>
+**I. Introduction to Securities Industry and Regulations**</br>
 &nbsp; A. Overview of the Securities Industry</br>
 &nbsp; B. Role of FINRA and SEC</br>
 &nbsp; C. Securities Act of 1933 </br>
 &nbsp; D. Securities Exchange Act of 1934</br>
 
 **II. Securities Markets and Products**</br>
-&nbsp; A. Types of Securities</br>
+&nbsp; A. &nbsp; &nbsp; Types of Securities</br>
 1. Equities
 2. Fixed-Income Securities
 3. Options
 4. Mutual Funds
 5. Alternative Investments</br>
 
-&nbsp; B. Primary Markets</br>
-&nbsp; C. Secondary Markets</br>
-&nbsp; D. Orders</br>
+&nbsp; B. &nbsp; &nbsp; Primary Markets</br>
+&nbsp; C. &nbsp; &nbsp; Secondary Markets</br>
+&nbsp; D. &nbsp; &nbsp; Orders</br>
 1. Market Orders
 2. Limit Orders
 3. Stop Orders
 
 **III. Investment Risk and Return**</br>
-&nbsp; A. Risk vs. Return</br>
-&nbsp; B. Diversification and Portfolio Allocation</br>
-&nbsp; C. Investment Strategies</br>
+&nbsp; A. &nbsp; &nbsp; Risk vs. Return</br>
+&nbsp; B. &nbsp; &nbsp; Diversification and Portfolio Allocation</br>
+&nbsp; C. &nbsp; &nbsp; Investment Strategies</br>
 1. Growth Investing Strategies
 2. Value Investing Strategies
 3. Active Investing Strategies
 4. Passive Investing Strategies
 
-IV. Investment Banking and Corporate Securities
-A. Capital Structure
-B. IPOs and Secondary Offerings
-C. Underwriting Process
+**IV. Investment Banking and Corporate Securities**
+&nbsp; A. &nbsp; &nbsp; Capital Structure</br>
+&nbsp; B. &nbsp; &nbsp; IPOs and Secondary Offerings</br>
+&nbsp; C. &nbsp; &nbsp; Underwriting Process</br>
 
-V. Regulations and Compliance
-A. Registration and Licensing Requirements
-B. Anti-Money Laundering (AML) Regulations
-C. Know Your Customer (KYC) Requirements
+**V. Regulations and Compliance**
+&nbsp; A.  &nbsp; &nbsp; Registration and Licensing Requirements</br>
+&nbsp; B.  &nbsp; &nbsp; Anti-Money Laundering (AML) Regulations</br>
+&nbsp; C.  &nbsp; &nbsp; Know Your Customer (KYC) Requirements</br>
 
-VI. Customer Accounts and Investment Strategies
-A. Account Types
+**VI. Customer Accounts and Investment Strategies**
+&nbsp; A. &nbsp; &nbsp; Account Types</br>
 1. Individual
 2. Joint
 3. Corporate
