@@ -106,6 +106,7 @@ This course has been designed using the following 12 Modules, and sections which
 2. &nbsp; &nbsp; Joint.
 3. &nbsp; &nbsp; Corporate.
 4. &nbsp; &nbsp; Trusts.</br>
+
 &nbsp; B. &nbsp; &nbsp; Investment Strategies based on Client Objectives.</br>
 &nbsp; C. &nbsp; &nbsp; Tax Considerations in Investment Planning.</br>
 
@@ -119,6 +120,7 @@ This course has been designed using the following 12 Modules, and sections which
 1. &nbsp; &nbsp; IRA.
 2. &nbsp; &nbsp; 401(k).
 3. &nbsp; &nbsp; Pension Plans.</br>
+
 &nbsp; B. &nbsp; &nbsp; ERISA Matters.
 
 **IX. Securities Analysis and Valuation**</br>
