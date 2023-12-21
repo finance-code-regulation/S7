@@ -1,10 +1,12 @@
-# Series 7
+# Series 7 – General Securities Representative Exam
 
 Securities Professional Exam Requirements.</br></br>
 It is required that all NEW representatives  take and pass the Securities Industry Essentials® (SIE®) Exam as a pre-requisite to taking the Series 7 Exam. The FINRA Series 7 is a corequisite exam that needs to be successfully completed in addition to the Series 63, 65, or 66 exam before a candidate can apply to register with a state.
 
 1. Securities Industry Essentials® (SIE®) Exam </br>
-2. Series 7 – General Securities Representative Exam
+2. Series 7 – General Securities Representative Exam</br>
+
+</br>
 
 | Exam    | Questions | Allotted Exam Time | Required To Pass |
 | :-------- | :------- | -------: |-------: |
@@ -55,6 +57,81 @@ exam items for each major function is as referenced in the table below.
 | 3    | Suitability,  Disclosure, and Record Keeping    | 91   | 73% |
 | 4    | Customer Instructions, Transactions, and Agreements   | 14  | 11% |
 | **Total**   |  |  **125** | **100%** |
+
+This course has been designed using the following 12 Modules, and sections which include practice Q&A for each part.</br>
+
+I. Introduction to Securities Industry and Regulations
+A. Overview of the Securities Industry
+B. Role of FINRA and SEC
+C. Securities Act of 1933 and Securities Exchange Act of 1934
+
+II. Securities Markets and Products
+A. Types of Securities
+1. Equities
+2. Fixed-Income Securities
+3. Options
+4. Mutual Funds
+5. Alternative Investments
+B. Primary and Secondary Markets
+C. Market Orders, Limit Orders, and Stop Orders
+
+III. Investment Risk and Return
+A. Risk vs. Return
+B. Diversification and Portfolio Allocation
+C. Investment Strategies
+1. Growth vs. Value Investing
+2. Active vs. Passive Investing
+
+IV. Investment Banking and Corporate Securities
+A. Capital Structure
+B. IPOs and Secondary Offerings
+C. Underwriting Process
+
+V. Regulations and Compliance
+A. Registration and Licensing Requirements
+B. Anti-Money Laundering (AML) Regulations
+C. Know Your Customer (KYC) Requirements
+
+VI. Customer Accounts and Investment Strategies
+A. Account Types
+1. Individual
+2. Joint
+3. Corporate
+4. Trusts
+B. Investment Strategies based on Client Objectives
+C. Tax Considerations in Investment Planning
+
+VII. Derivative Securities and Options
+A. Options Strategies
+B. Option Contracts and Exchanges
+C. Risk Management using Derivatives
+
+VIII. Retirement Plans and Regulations
+A. Types of Retirement Plans
+1. IRA
+2. 401(k)
+3. Pension Plans
+B. ERISA Regulations
+
+IX. Securities Analysis and Valuation
+A. Fundamental Analysis
+B. Technical Analysis
+C. Valuation Methods
+
+X. Ethics and Professional Conduct
+A. Ethical Guidelines for Financial Professionals
+B. Insider Trading and Market Manipulation
+C. Conflicts of Interest and Fiduciary Responsibilities
+
+XI. Practice Exams and Quizzes
+A. Sample Questions and Answers
+B. Mock Exams for Practice
+C. Review and Assessment Strategies
+
+XII. Additional Resources and References
+A. Recommended Reading Materials
+B. Online Resources and Practice Tests
+C. Study Tips and Exam Strategies
 
 
 
