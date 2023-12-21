@@ -1,16 +1,29 @@
 # Series 7
 
-General Securities Representative Exam Timeline
+Securities Professional Exam Requirements.</br></br>
+It is required that all NEW representatives  take and pass the Securities Industry Essentials® (SIE®) Exam as a pre-requisite to taking the Series 7 Exam.
+
+A. Securities Industry Essentials® (SIE®) Exam </br>
+B. Series 7 – General Securities Representative Exam
 
 | Exam    | Questions | Allotted Exam Time | Required To Pass |
 | :-------- | :------- | -------: |-------: |
 | SIE  | 75 Multiple-Choice Questions   | 1 hour and 45 minutes    | 70% |
 | S7 | 125 Multiple-Choice Questions | 3 hours and 45 minutes   | 72% |
+
+After passing the SIE and Series 7 Exam, representatives must also pass at least ONE of the following Securities Law Parts
+
+1. Series 63 – Uniform Securities Agent State Law Exam 
+2. Series 65 – Uniform Investment Adviser Law Exam
+3. Series 66 – Uniform Combined State Law Exam</br>
+** The Series 66 exam is the equivalent of taking both the Series 63 and Series 65 exams.
+   
+| Exam    | Questions | Allotted Exam Time | Required To Pass |
+| :-------- | :------- | -------: |-------: |
 | S63    | 60 Multiple-Choice Questions    | 1 hour and 15 minutes    | 72% |
 | S66    | 125 Multiple-Choice Questions   | 1 hour and 50 minutes    | 73% |
 | S65    | 130 Multiple-Choice Questions    | 3 hours   | 70% |
 
-** The Series 66 exam is the equivalent of taking both the Series 63 and Series 65 exams.
 
 </br></br>
 The Series 7 Exam covers a wide range of topics, so dedicating time and effort to each section while practicing with sample questions and exams is crucial for success. It is also required that new representatives also take and pass the Securities Industry Essentials® (SIE®) Exam prior to taking the Series 7 Exam.
