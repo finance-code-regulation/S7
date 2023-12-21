@@ -1,7 +1,7 @@
 # Series 7 – General Securities Representative Exam
 
 Securities Professional Exam Requirements.</br></br>
-It is required that all NEW representatives  take and pass the Securities Industry Essentials® (SIE®) Exam as a pre-requisite to taking the Series 7 Exam. The FINRA Series 7 is a corequisite exam that needs to be successfully completed in addition to the Series 63, 65, or 66 exam before a candidate can apply to register with a state.
+It is required that all NEW representatives  take and pass the Securities Industry Essentials® (SIE®) Exam as a pre-requisite to taking the Series 7 Exam. The FINRA Series 7 is a corequisite exam that needs to be successfully completed in addition to the Series 63, 65, or 66 exam before a candidate can apply to register with a state. As individuals, we understand different people have different needs and we can also accomodate individual sessions focusing and targeting on "problem areas" to help better position our students to pass the exams. </br>
 
 1. Securities Industry Essentials® (SIE®) Exam </br>
 2. Series 7 – General Securities Representative Exam</br>
@@ -58,7 +58,7 @@ exam items for each major function is as referenced in the table below.
 | 4    | Customer Instructions, Transactions, and Agreements   | 14  | 11% |
 | **Total**   |  |  **125** | **100%** |
 
-This course has been designed using the following 12 Modules, and sections which include practice Q&A for each part.</br>
+This course has been designed using the following 12 Modules, and sections which include practice Q&A for each part. Each Module and Section are followed by practice questions, and we'll be closing out with full-blown exams. As individuals, we understand different people have specific needs and we can also accomodate individual sessions focusing and targeting on "problem areas" to help better position our students to pass the exams. </br>
 
 **I. Introduction to Securities Industry and Regulations**</br>
 &nbsp; A. &nbsp; &nbsp; Overview of the Securities Industry.</br>
@@ -132,14 +132,14 @@ This course has been designed using the following 12 Modules, and sections which
 &nbsp; C. &nbsp; &nbsp; Conflicts of Interest and Fiduciary Responsibilities.</br>
 
 **XI. Practice Exams and Quizzes**</br>
-&nbsp; A. &nbsp; &nbsp; Sample Questions and Answers.
-&nbsp; B. &nbsp; &nbsp; Mock Exams for Practice.
-&nbsp; C. &nbsp; &nbsp; Review and Assessment Strategies.
+&nbsp; A. &nbsp; &nbsp; Sample Questions and Answers.</br>
+&nbsp; B. &nbsp; &nbsp; Mock Exams for Practice.</br>
+&nbsp; C. &nbsp; &nbsp; Review and Assessment Strategies.</br>
 
-XII. Additional Resources and References
-A. Recommended Reading Materials
-B. Online Resources and Practice Tests
-C. Study Tips and Exam Strategies
+**XII. Additional Resources and References**</br>
+&nbsp; A. &nbsp; &nbsp; Recommended Reading Materials.</br>
+&nbsp; B. &nbsp; &nbsp; Online Resources and Practice Tests.</br>
+&nbsp; C. &nbsp; Study Tips and Exam Strategies.</br>
 
 
 
