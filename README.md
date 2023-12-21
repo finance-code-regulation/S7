@@ -90,31 +90,31 @@ This course has been designed using the following 12 Modules, and sections which
 3. Active Investing Strategies
 4. Passive Investing Strategies
 
-**IV. Investment Banking and Corporate Securities**
+**IV. Investment Banking and Corporate Securities**</br>
 &nbsp; A. &nbsp; &nbsp; Capital Structure</br>
 &nbsp; B. &nbsp; &nbsp; IPOs and Secondary Offerings</br>
 &nbsp; C. &nbsp; &nbsp; Underwriting Process</br>
 
-**V. Regulations and Compliance**
+**V. Regulations and Compliance**</br>
 &nbsp; A.  &nbsp; &nbsp; Registration and Licensing Requirements</br>
 &nbsp; B.  &nbsp; &nbsp; Anti-Money Laundering (AML) Regulations</br>
 &nbsp; C.  &nbsp; &nbsp; Know Your Customer (KYC) Requirements</br>
 
-**VI. Customer Accounts and Investment Strategies**
+**VI. Customer Accounts and Investment Strategies**</br>
 &nbsp; A. &nbsp; &nbsp; Account Types</br>
 1. Individual
 2. Joint
 3. Corporate
 4. Trusts
-B. Investment Strategies based on Client Objectives
-C. Tax Considerations in Investment Planning
+&nbsp; B. &nbsp; &nbsp; Investment Strategies based on Client Objectives</br>
+&nbsp; C. &nbsp; &nbsp; Tax Considerations in Investment Planning</br>
 
-VII. Derivative Securities and Options
-A. Options Strategies
-B. Option Contracts and Exchanges
-C. Risk Management using Derivatives
+**VII. Derivative Securities and Options**</br>
+&nbsp; A. &nbsp; &nbsp; Options Strategies
+&nbsp; B. &nbsp; &nbsp; Option Contracts and Exchanges
+&nbsp; C. &nbsp; &nbsp; Risk Management using Derivatives
 
-VIII. Retirement Plans and Regulations
+**VIII. Retirement Plans and Regulations**
 A. Types of Retirement Plans
 1. IRA
 2. 401(k)
