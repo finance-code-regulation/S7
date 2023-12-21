@@ -61,9 +61,10 @@ exam items for each major function is as referenced in the table below.
 This course has been designed using the following 12 Modules, and sections which include practice Q&A for each part.</br>
 
 I. Introduction to Securities Industry and Regulations</br>
-A. Overview of the Securities Industry</br>
-B. Role of FINRA and SEC</br>
-C. Securities Act of 1933 and Securities Exchange Act of 1934
+&nbsp; A. Overview of the Securities Industry</br>
+&nbsp; B. Role of FINRA and SEC</br>
+&nbsp; C. Securities Act of 1933 </br>
+&nbsp; D. Securities Exchange Act of 1934</br>
 
 **II. Securities Markets and Products**</br>
 &nbsp; A. Types of Securities</br>
@@ -71,16 +72,23 @@ C. Securities Act of 1933 and Securities Exchange Act of 1934
 2. Fixed-Income Securities
 3. Options
 4. Mutual Funds
-5. Alternative Investments
-&nbsp; B. Primary and Secondary Markets</br>
-&nbsp; C. Market Orders, Limit Orders, and Stop Orders</br>
+5. Alternative Investments</br>
+
+&nbsp; B. Primary Markets</br>
+&nbsp; C. Secondary Markets</br>
+&nbsp; D. Orders</br>
+1. Market Orders
+2. Limit Orders
+3. Stop Orders
 
 **III. Investment Risk and Return**</br>
 &nbsp; A. Risk vs. Return</br>
 &nbsp; B. Diversification and Portfolio Allocation</br>
 &nbsp; C. Investment Strategies</br>
-1. Growth vs. Value Investing
-2. Active vs. Passive Investing
+1. Growth Investing Strategies
+2. Value Investing Strategies
+3. Active Investing Strategies
+4. Passive Investing Strategies
 
 IV. Investment Banking and Corporate Securities
 A. Capital Structure
