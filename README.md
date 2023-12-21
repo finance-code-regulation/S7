@@ -1,7 +1,7 @@
 # Series 7
 
 Securities Professional Exam Requirements.</br></br>
-It is required that all NEW representatives  take and pass the Securities Industry Essentials® (SIE®) Exam as a pre-requisite to taking the Series 7 Exam.
+It is required that all NEW representatives  take and pass the Securities Industry Essentials® (SIE®) Exam as a pre-requisite to taking the Series 7 Exam. The FINRA Series 7 is a corequisite exam that needs to be successfully completed in addition to the Series 63, 65, or 66 exam before a candidate can apply to register with a state.
 
 1. Securities Industry Essentials® (SIE®) Exam </br>
 2. Series 7 – General Securities Representative Exam
@@ -11,7 +11,7 @@ It is required that all NEW representatives  take and pass the Securities Indust
 | SIE  | 75 Multiple-Choice Questions   | 1 hour and 45 minutes    | 70% |
 | S7 | 125 Multiple-Choice Questions | 3 hours and 45 minutes   | 72% |
 
-After passing the SIE and Series 7 Exam, representatives must also pass at least ONE of the following Securities Law Parts
+After passing the SIE and Series 7 Exam, representatives must also pass at least ONE of the following Securities Law Exams in order to be registered to conduct business in any State, and must be approved in their *home* state.
 
 1. Series 63 – Uniform Securities Agent State Law Exam 
 2. Series 65 – Uniform Investment Adviser Law Exam
@@ -21,7 +21,7 @@ After passing the SIE and Series 7 Exam, representatives must also pass at least
 | Exam    | Questions | Allotted Exam Time | Required To Pass |
 | :-------- | :------- | -------: |-------: |
 | S63    | 60 Multiple-Choice Questions    | 1 hour and 15 minutes    | 72% |
-| S66    | 125 Multiple-Choice Questions   | 1 hour and 50 minutes    | 73% |
+| S66    | 100 Multiple-Choice Questions   | 1 hour and 50 minutes    | 73% |
 | S65    | 130 Multiple-Choice Questions    | 3 hours   | 70% |
 
 
