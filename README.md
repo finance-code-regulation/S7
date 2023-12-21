@@ -3,8 +3,8 @@
 Securities Professional Exam Requirements.</br></br>
 It is required that all NEW representatives  take and pass the Securities Industry Essentials® (SIE®) Exam as a pre-requisite to taking the Series 7 Exam.
 
-A. Securities Industry Essentials® (SIE®) Exam </br>
-B. Series 7 – General Securities Representative Exam
+1. Securities Industry Essentials® (SIE®) Exam </br>
+2. Series 7 – General Securities Representative Exam
 
 | Exam    | Questions | Allotted Exam Time | Required To Pass |
 | :-------- | :------- | -------: |-------: |
