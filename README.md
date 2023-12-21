@@ -19,13 +19,13 @@ The Series 7 Exam covers a wide range of topics, so dedicating time and effort t
 
 The SIE is open to anyone aged 18 or older, including students and prospective candidates interested in demonstrating basic industry knowledge to prospective employers. Association with a firm is not required to take the SIE, and results are valid for four years.
 
-| SIE: Part    | Description | Questions | Weight |
-| -------- | ------- | -------: |-------: |
+| Section   | Description | Questions | Weight |
+| :-------- | :------- | -------: |-------: |
 | 1  | Knowledge of Capital Markets   | 12   | 16% |
 | 2 | Products and Their Risks      | 33   | 44% |
 | 3    | Trading, Customer Accounts and Prohibited Activities    | 23   | 31% |
 | 4    | Regulatory Framework   | 7   | 9% |
-| Total   |  |  75 | 100% |
+| **Total**   |  |  **75** | **100%** |
 
 The exam is administered via computer. Each candidate’s exam includes 10 additional, unidentified pretest items that do not contribute toward the candidate's score. There is no penalty for guessing. Therefore, candidates should attempt to answer all items. Candidates will be allowed 1 hour and 45 minutes to complete the SIE exam. All candidate test scores are placed on a common scale using a statistical adjustment process known as equating. Equating scores to a common scale accounts for the slight variations in difficulty that may exist among the different sets of exam items that candidates receive. This allows for a fair comparison of scores and ensures that every candidate is held to the same passing standard regardless of which set of exam items they received. Candidates are not permitted to bring reference materials to their testing session. Severe penalties are imposed on candidates who cheat or attempt to cheat on FINRA-administered exams.
 
@@ -35,13 +35,13 @@ The exam is administered via computer. Each candidate’s exam includes 10 addit
 The exam consists of 125 multiple-choice items, and each item consists of four answer choices. The allocation of
 exam items for each major function is as referenced in the table below.
 
-| S7: Part    | Description | Questions | Weight |
-| -------- | ------- | -------: |-------: |
+| Section    | Description | Questions | Weight |
+| -------- | :------- | -------: |-------: |
 | 1  | Customers and Potential Customers   | 9   | 7% |
 | 2 | Financial Profilea and Investment Objectives      | 11   | 9% |
 | 3    | Suitability,  Disclosure, and Record Keeping    | 91   | 73% |
 | 4    | Customer Instructions, Transactions, and Agreements   | 14  | 11% |
-| Total   |  |  125 | 100% |
+| **Total**   |  |  **125** | **100%** |
 
 
 
