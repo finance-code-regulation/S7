@@ -1,16 +1,16 @@
 # Series 7
 
-General Securities Representative Rubric
+General Securities Representative Exam Timeline
 
 | Exam    | Questions | Allotted Time | Required To Pass |
-| -------- | ------- | -------: |-------: |
-| SIE  | 75   | 1 hour and 45 minutes    | 70% |
-| S7 | Products and Their Risks      | 33   | 44% |
-| S63    | Trading, Customer Accounts and Prohibited Activities    | 23   | 31% |
-| S65    | Regulatory Framework   | 7   | 9% |
-| S57   |  |  75 | 100% |
+| :-------- | :------- | -------: |-------: |
+| SIE  | 75 Multiple-Choice Questions   | 1 hour and 45 minutes    | 70% |
+| S7 | 125 Multiple-Choice Questions | 3 hours and 45 minutes   | 72% |
+| S63    | 60 Multiple-Choice Questions    | 1 hour and 15 minutes    | 72% |
+| S66    | 125 Multiple-Choice Questions   | 1 hour and 50 minutes    | 73% |
+| S65    | 130 Multiple-Choice Questions    | 3 hours   | 70% |
 
-
+** The Series 66 exam is the equivalent of taking both the Series 63 and Series 65 exams.
 
 </br></br>
 The Series 7 Exam covers a wide range of topics, so dedicating time and effort to each section while practicing with sample questions and exams is crucial for success. It is also required that new representatives also take and pass the Securities Industry Essentials® (SIE®) Exam prior to taking the Series 7 Exam.
