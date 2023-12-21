@@ -58,7 +58,7 @@ exam items for each major function is as referenced in the table below.
 | 4    | Customer Instructions, Transactions, and Agreements   | 14  | 11% |
 | **Total**   |  |  **125** | **100%** |
 
-This course has been designed using the following 12 Modules, and sections which include practice Q&A for each part. Each Module and Section are followed by practice questions, and we'll be closing out with full-blown exams. As individuals, we understand different people have specific needs and we can also accomodate individual sessions focusing and targeting on "problem areas" to help better position our students to pass the exams. </br>
+This course has been designed using the following Modules and sections which include practice Q&A for each part. Each Module and Section are followed by practice questions, and we'll be closing out with full-blown exams. As individuals, we understand different people have specific needs and we can also accomodate individual sessions focusing and targeting on "problem areas" to help better position our students to pass the exams. </br>
 
 **I. Introduction to Securities Industry and Regulations**</br>
 &nbsp; A. &nbsp; &nbsp; Overview of the Securities Industry.</br>
@@ -134,14 +134,10 @@ This course has been designed using the following 12 Modules, and sections which
 &nbsp; C. &nbsp; &nbsp; Conflicts of Interest and Fiduciary Responsibilities.</br>
 
 **XI. Practice Exams and Quizzes**</br>
-&nbsp; A. &nbsp; &nbsp; Sample Questions and Answers.</br>
-&nbsp; B. &nbsp; &nbsp; Mock Exams for Practice.</br>
-&nbsp; C. &nbsp; &nbsp; Review and Assessment Strategies.</br>
+&nbsp; A. &nbsp; &nbsp; Mock Exams for Practice.</br>
+&nbsp; B. &nbsp; &nbsp; Study Tips and Exam Strategies</br>
 
-**XII. Additional Resources and References**</br>
-&nbsp; A. &nbsp; &nbsp; Recommended Reading Materials.</br>
-&nbsp; B. &nbsp; &nbsp; Online Resources and Practice Tests.</br>
-&nbsp; C. &nbsp; Study Tips and Exam Strategies.</br>
-
+**XII. Individual Group Assessment**</br>
+&nbsp; A. &nbsp; &nbsp; Target Individual Problem Areas and Sections as a Group.</br>
 
 
