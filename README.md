@@ -1,7 +1,7 @@
 # Series 7 – General Securities Representative Exam
 
 Securities Professional Exam Requirements.</br></br>
-It is required that all NEW representatives  take and pass the Securities Industry Essentials® (SIE®) Exam as a pre-requisite to taking the Series 7 Exam. The FINRA Series 7 is a corequisite exam that needs to be successfully completed in addition to the Series 63, 65, or 66 exam before a candidate can apply to register with a state. As individuals, we understand different people have different needs and we can also accomodate individual sessions focusing and targeting on "problem areas" to help better position our students to pass the exams. </br>
+It is required that all NEW representatives  take and pass the Securities Industry Essentials® (SIE®) Exam as a pre-requisite to taking the Series 7 Exam. The FINRA Series 7 is a corequisite exam that needs to be successfully completed in addition to the Series 63, 65, or 66 exam before a candidate can apply to register with a state. As individuals, we understand different people have different needs and we can also accomodate individual sessions focusing and targeting on "problem areas" to position our students to pass the exams on the first attempt.</br>
 
 1. Securities Industry Essentials® (SIE®) Exam </br>
 2. Series 7 – General Securities Representative Exam</br>
