@@ -105,7 +105,7 @@ This course has been designed using the following 12 Modules, and sections which
 1. &nbsp; &nbsp; Individual.
 2. &nbsp; &nbsp; Joint.
 3. &nbsp; &nbsp; Corporate.
-4. &nbsp; &nbsp; Trusts.
+4. &nbsp; &nbsp; Trusts.</br>
 &nbsp; B. &nbsp; &nbsp; Investment Strategies based on Client Objectives.</br>
 &nbsp; C. &nbsp; &nbsp; Tax Considerations in Investment Planning.</br>
 
@@ -118,18 +118,18 @@ This course has been designed using the following 12 Modules, and sections which
 &nbsp; A. &nbsp; &nbsp; Types of Retirement Plans.</br>
 1. &nbsp; &nbsp; IRA.
 2. &nbsp; &nbsp; 401(k).
-3. &nbsp; &nbsp; Pension Plans.
-B. &nbsp; &nbsp; ERISA Regulations.
+3. &nbsp; &nbsp; Pension Plans.</br>
+&nbsp; B. &nbsp; &nbsp; ERISA Matters.
 
 **IX. Securities Analysis and Valuation**
-&nbsp;A. &nbsp; &nbsp; Fundamental Analysis.</br>
-&nbsp;B. &nbsp; &nbsp; Technical Analysis.</br>
-&nbsp;C. &nbsp; &nbsp; Valuation Methods.</br>
+&nbsp; A. &nbsp; &nbsp; Fundamental Analysis.</br>
+&nbsp; B. &nbsp; &nbsp; Technical Analysis.</br>
+&nbsp; C. &nbsp; &nbsp; Valuation Methods.</br>
 
 **X. Ethics and Professional Conduct**
-A. Ethical Guidelines for Financial Professionals
-B. Insider Trading and Market Manipulation
-C. Conflicts of Interest and Fiduciary Responsibilities
+&nbsp; A. &nbsp; &nbsp; Ethical Guidelines for Financial Professionals.</br>
+&nbsp; B. &nbsp; &nbsp; Insider Trading and Market Manipulation.</br>
+&nbsp; C. &nbsp; &nbsp; Conflicts of Interest and Fiduciary Responsibilities.</br>
 
 XI. Practice Exams and Quizzes
 A. Sample Questions and Answers
